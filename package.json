@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Generates a webpage to display a teams basic info including e-mails and github profiles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cragar777/UOTSCS-Assignment10-Team-Profile-Generator.git"
+  },
+  "author": "Craig Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cragar777/UOTSCS-Assignment10-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Cragar777/UOTSCS-Assignment10-Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^27.2.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.3"
+  }
+}
