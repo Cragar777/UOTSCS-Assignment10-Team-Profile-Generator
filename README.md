@@ -32,7 +32,7 @@ THEN I exit the application, and the HTML is generated
 ```
 **Application Photo:**
 
-
+![Team-Profile-Generator Screenshot](https://user-images.githubusercontent.com/85413293/142668597-44ac1503-cfe9-4af6-bbc5-5b7ab85d4739.png)
 
 
 **Link to Walkthrough Video:**
